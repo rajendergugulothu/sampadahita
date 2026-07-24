@@ -127,7 +127,7 @@ if(cal){var times=d.getElementById('times');
 })();
 </script>'''
 
-def page(active, title, desc, body, hero_theme="#0c1430"):
+def page(active, title, desc, body, hero_theme="#0c2417"):
     return f'''<!doctype html>
 <html lang="en">
 <head>
